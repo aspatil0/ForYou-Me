@@ -1,0 +1,17 @@
+Admin Dashboard
+│
+├── Products
+│   ├── Add Product
+│   ├── Edit Product
+│   └── Set Discounts
+│
+├── Orders
+│   ├── New Orders
+│   ├── Shipped
+│   └── Delivered
+│
+├── Inventory
+│
+├── Payments
+│
+└── Customers
