@@ -1,0 +1,25 @@
+You and Me (E-commerce Platform)
+│
+├── Frontend (Customer Side)
+│   ├── Home
+│   ├── Shop (All Products)
+│   ├── Product Detail
+│   ├── Cart
+│   ├── Checkout
+│   ├── About Us
+│   ├── Contact Us
+│   └── Policy Pages
+│
+├── Backend (Handled by Shopify)
+│   ├── Product Management
+│   ├── Order Management
+│   ├── Payment Handling
+│   ├── Inventory
+│   └── Customer Data
+│
+└── Admin Panel (You)
+    ├── Add / Edit Products
+    ├── Pricing & Discounts
+    ├── Order Status
+    ├── Inventory Control
+    └── Analytics
