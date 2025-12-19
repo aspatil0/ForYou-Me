@@ -1,0 +1,8 @@
+Product
+├── Name
+├── Description
+├── Images
+├── Price
+├── Discount Price
+├── Category
+└── Stock
